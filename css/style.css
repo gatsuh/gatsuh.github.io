@@ -1,0 +1,19 @@
+body{
+background-color:#9797F5;
+}
+h1{
+color: navy;
+margin-left: 20px;
+}
+.container{
+    margin-top: 3%;
+}
+.formlabels{
+    align-self: center;
+}
+#comments{
+   padding-top: 1%;
+   padding-right: 7%;
+   padding-bottom: 7%;
+   padding-left: 1.25%;
+         }
