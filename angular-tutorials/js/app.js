@@ -49,7 +49,7 @@
 				"title": "Introduction to AngularJS",
 				"image": "https://irodriguezm.files.wordpress.com/2009/12/logo_mva.png",
 				"author": "Microsoft Virtual Academy"
-			}	
+			}
 		];
     });
 })();
