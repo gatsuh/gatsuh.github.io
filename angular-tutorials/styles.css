@@ -4,6 +4,7 @@ span {
 }
 body {
     min-width: 520px;
+	background: #151515 url("../images/bkg.png") 0 0;
 }
 .column {
     width: 170px;
